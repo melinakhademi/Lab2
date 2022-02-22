@@ -1,0 +1,11 @@
+@model List<Movie>
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>This is a list of movies starring Robin Williams.</h3>
+<p>There are @Model.Count movies in this category</p>
+
+@foreach (var movie in Model)
+{
+    <div><a href="/Home/MovieDetails/@(movie.Id)">@movie.Title</a> - @movie.ReleaseYear</div>
+}

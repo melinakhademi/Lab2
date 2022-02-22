@@ -1,0 +1,13 @@
+@model List<Movie>
+@{
+    //ViewData["Title"] = Model.Title;
+}
+<h1>@ViewData["Title"]</h1>
+
+<h3>This is a list of movies released before year 2000.</h3>
+<p>There are @Model.Count movies in this category</p>
+
+@foreach (var movie in Model)
+{   
+    <div><a href="/Home/MovieDetails/@(movie.Id)">@movie.Title</a> - @movie.ReleaseYear</div>
+}

@@ -1,0 +1,10 @@
+@model Actor
+
+<h1>@ViewData["Title"]</h1>
+
+@{
+    @foreach (var movie in Model.Movies)
+    {
+        <h6>@movie.Title - @movie.ReleaseYear</h6>
+    }
+}

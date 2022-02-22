@@ -1,0 +1,14 @@
+@model Movie
+
+<h1>@ViewData["Title"]</h1>
+
+@{
+    <div>
+    <h6><b>@Model.Title</b> - @Model.ReleaseYear - @Model.Genre</h6>
+    </div>
+
+    @foreach (var actor in Model.Actors)
+    {
+        <div><a href="/Home/ActorDetails/@(actor.Id)">@actor.FirstName @actor.LastName</a></div>
+    }
+}
