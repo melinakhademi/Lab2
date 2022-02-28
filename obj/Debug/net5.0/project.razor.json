@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/MovieLab.csproj",
+  "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/MovieLab.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,73 +15619,73 @@
   "RootNamespace": "MovieLab",
   "Documents": [
     {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/OldMovies.cshtml",
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/OldMovies.cshtml",
       "TargetPath": "Views\\Home\\OldMovies.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/GenreDramaDetails.cshtml",
-      "TargetPath": "Views\\Home\\GenreDramaDetails.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/ActorDetails.cshtml",
-      "TargetPath": "Views\\Home\\ActorDetails.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/GenreDrama.cshtml",
-      "TargetPath": "Views\\Home\\GenreDrama.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/ThreeActors.cshtml",
-      "TargetPath": "Views\\Home\\ThreeActors.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/MovieDetails.cshtml",
-      "TargetPath": "Views\\Home\\MovieDetails.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/RobinWilliams.cshtml",
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/RobinWilliams.cshtml",
       "TargetPath": "Views\\Home\\RobinWilliams.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/melinakhademi/Desktop/Lab 2/lab2-melinakhademi-main/Views/Home/RobinWilliamsDetails.cshtml",
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/ThreeActors.cshtml",
+      "TargetPath": "Views\\Home\\ThreeActors.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/RobinWilliamsDetails.cshtml",
       "TargetPath": "Views\\Home\\RobinWilliamsDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/GenreDramaDetails.cshtml",
+      "TargetPath": "Views\\Home\\GenreDramaDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/GenreDrama.cshtml",
+      "TargetPath": "Views\\Home\\GenreDrama.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/ActorDetails.cshtml",
+      "TargetPath": "Views\\Home\\ActorDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/Views/Home/MovieDetails.cshtml",
+      "TargetPath": "Views\\Home\\MovieDetails.cshtml",
       "FileKind": "mvc"
     }
   ],

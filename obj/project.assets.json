@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/melinakhademi/Desktop/lab2/lab2-melinakhademi-main/MovieLab.csproj",
+      "projectUniqueName": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/MovieLab.csproj",
       "projectName": "MovieLab",
-      "projectPath": "/Users/melinakhademi/Desktop/lab2/lab2-melinakhademi-main/MovieLab.csproj",
+      "projectPath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/MovieLab.csproj",
       "packagesPath": "/Users/melinakhademi/.nuget/packages/",
-      "outputPath": "/Users/melinakhademi/Desktop/lab2/lab2-melinakhademi-main/obj/",
+      "outputPath": "/Users/melinakhademi/Desktop/Applied Web Architecture/Labs/Lab2/lab2-melinakhademi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/melinakhademi/.nuget/NuGet/NuGet.Config"

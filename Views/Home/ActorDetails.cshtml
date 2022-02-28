@@ -5,6 +5,6 @@
 @{
     @foreach (var movie in Model.Movies)
     {
-        <h6>@movie.Title - @movie.ReleaseYear</h6>
+        <div><a href="/Home/MovieDetails/@(movie.Id)">@movie.Title</a> - @movie.ReleaseYear</div>
     }
 }
